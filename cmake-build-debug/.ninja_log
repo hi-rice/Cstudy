@@ -1,0 +1,12 @@
+# ninja log v6
+1	77	1722407723802799819	CMakeFiles/untitled.dir/Chapter1/Hello.c.o	8f709fab62272c7a
+1	77	1722407723803040279	CMakeFiles/untitled.dir/Question/02-1-2.c.o	42517ccb7ab04630
+1	77	1722407723803263822	CMakeFiles/untitled.dir/Chapter2/PrintfOne.c.o	64e33f6ba3af027b
+0	78	1722407723802510859	CMakeFiles/untitled.dir/library.c.o	f0a342ae6004dc64
+1	78	1722407723802932320	CMakeFiles/untitled.dir/Question/02-1-1.c.o	34ad8434fcfe0f72
+1	78	1722407723803157613	CMakeFiles/untitled.dir/Chapter2/HelloComment.c.o	2e7783ac7effb218
+77	98	1722407723878911365	CMakeFiles/untitled.dir/Chapter2/PrintfTwo.c.o	631ad441b39691
+77	98	1722407723879254034	CMakeFiles/untitled.dir/Question/02-2-1.c.o	259b3b548ff96dc0
+77	98	1722407723879453118	CMakeFiles/untitled.dir/Question/02-2-2.c.o	d22cfc059f4e36a9
+78	104	1722407723879641452	CMakeFiles/untitled.dir/Chapter3/SimpleAddOne.c.o	53795596b8084bfc
+104	121	1722407723905755930	libuntitled.a	c58423fe95f1aebf
