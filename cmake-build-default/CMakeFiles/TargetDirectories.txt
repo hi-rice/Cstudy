@@ -80,5 +80,6 @@
 /Users/rice/Cstudy/study/cmake-build-default/CMakeFiles/question14_2_2_exec.dir
 /Users/rice/Cstudy/study/cmake-build-default/CMakeFiles/oct_hex_exec.dir
 /Users/rice/Cstudy/study/cmake-build-default/CMakeFiles/real_num_output_exec.dir
+/Users/rice/Cstudy/study/cmake-build-default/CMakeFiles/english_school_exec.dir
 /Users/rice/Cstudy/study/cmake-build-default/CMakeFiles/edit_cache.dir
 /Users/rice/Cstudy/study/cmake-build-default/CMakeFiles/rebuild_cache.dir
