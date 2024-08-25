@@ -59,7 +59,6 @@
 /Users/rice/Cstudy/study/cmake-build-default/CMakeFiles/question10_4_exec.dir
 /Users/rice/Cstudy/study/cmake-build-default/CMakeFiles/question10_5_exec.dir
 /Users/rice/Cstudy/study/cmake-build-default/CMakeFiles/question10_6_exec.dir
-/Users/rice/Cstudy/study/cmake-build-default/CMakeFiles/question10_7_exec.dir
 /Users/rice/Cstudy/study/cmake-build-default/CMakeFiles/question10_8_exec.dir
 /Users/rice/Cstudy/study/cmake-build-default/CMakeFiles/circle_area_exec.dir
 /Users/rice/Cstudy/study/cmake-build-default/CMakeFiles/how_char_exec.dir
@@ -70,7 +69,6 @@
 /Users/rice/Cstudy/study/cmake-build-default/CMakeFiles/form_printf_exec.dir
 /Users/rice/Cstudy/study/cmake-build-default/CMakeFiles/pointer_operation_exec.dir
 /Users/rice/Cstudy/study/cmake-build-default/CMakeFiles/question12_1_1_exec.dir
-/Users/rice/Cstudy/study/cmake-build-default/CMakeFiles/question12_1_2_exec.dir
 /Users/rice/Cstudy/study/cmake-build-default/CMakeFiles/question13_1_1_exec.dir
 /Users/rice/Cstudy/study/cmake-build-default/CMakeFiles/question13_1_2_exec.dir
 /Users/rice/Cstudy/study/cmake-build-default/CMakeFiles/question13_1_3_exec.dir
